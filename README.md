@@ -1,2 +1,2 @@
 # skillfactory-data-science
-Cource of learning data science
+Course of learning data science
